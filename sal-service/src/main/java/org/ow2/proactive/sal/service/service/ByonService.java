@@ -193,6 +193,8 @@ public class ByonService {
         });
 
         repositoryService.flush();
+        
+        sonar test
 
         LOGGER.info("BYON nodes added properly.");
         return true;
