@@ -3,6 +3,8 @@ Restful microservice template from ProActive
 
 ## Purpose
 
+test
+
 The purpose of the microservice template is to have common template for new microservice's implementation.
 
 ## Build Badges
